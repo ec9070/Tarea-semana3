@@ -1,0 +1,47 @@
+*{
+    background-color: beige;
+}
+
+h1{
+    color:green;
+    text-align: center;
+}
+
+h2{
+    font-family: cursive;
+    text-align: left;
+}
+
+p{
+    font-size:medium;
+    font-family:fantasy;
+}
+
+li{
+    font-size: medium;
+}
+
+.link{
+     color: blue;
+     text-decoration: underline;
+}
+
+.header {
+    height: 50px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%
+}
+
+
+.nav-link {​
+    color: white;
+    text-decoration: none;
+}
+
+.fieldset{
+    color:white;
+}
+​
+
